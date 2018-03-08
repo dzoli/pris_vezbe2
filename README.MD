@@ -1,0 +1,1 @@
+This is a git usage example project.
