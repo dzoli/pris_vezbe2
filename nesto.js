@@ -1,1 +1,1 @@
-console.log('Ajs');
+sconsole.log('Ajs');
